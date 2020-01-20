@@ -1,0 +1,3 @@
+-Adicionar arquivo para preenecher a arvore;
+-Colocar para consultar ao clicar no grafo;
+-Criar um ponteiro nos filhos para direcionar ao pai;
